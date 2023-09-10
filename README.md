@@ -8,8 +8,7 @@ This project provides a framework to compute the Unbiased multivariate correlati
 
 ## Introduction
 
-UMC is a measure used in various applications including data analysis, feature selection, and more. The goal is to compute the contribution of each column (or dimension) in a dataset.
-
+Implemented the python code for the research paper [UMC](https://github.com/samthakur587/UMC/blob/main/UMC_paper.pdf) is a measure used in various applications including data analysis, feature selection, and more. The goal is to compute the contribution of each column (or dimension) in a dataset.
 ## Features
 
 - Compute the Conditional Entropy (CE) for arrays.
